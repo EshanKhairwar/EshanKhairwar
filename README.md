@@ -40,7 +40,7 @@ Welcome to my GitHub 👨‍💻
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/eshankhairwar)
-- 🧠 [Portfolio](#) *(Coming soon)*
+- 🧠 [Portfolio](https://eshan-khairwar.netlify.app/)
 
 ---
 
